@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/09/2023",
+            "Employer/Group Name": "BERKSHIRE HATHAWAY",
+            "Group Number": "37297192",
+            "Payroll Location": "3729-2023",
+            "First Name": "NADINE",
+            "MI": "",
+            "Last Name": "ALI",
+            "Social Security Number": "879-07-1461",
+            "Address": "29185 SUNRIDGE",
+            "City": "FARMINGTON HILL",
+            "State": "NY",
+            "Zip": "48334",
+            "County": "",
+            "Home/Cell Phone": "765-239-9665",
+            "Marital Status (Please check one)": "MARRIED",
+            "Enrollment Status": "COBRA CONTINUANT START DATE",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "03/08/2009",
+            "Hours Worked Per Week": "40.0",
+            "Gender": "FEMALE",
+            "Date of Birth (Month/Day/Year)": "04/13/1971",
+            "Age": "52",
+            "Product Selection(s)": "VISION"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": ""
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

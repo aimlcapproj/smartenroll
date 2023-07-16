@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/04/2023",
+            "Employer/Group Name": "MCDONALD'S CORPORATION",
+            "Group Number": "32081881",
+            "Payroll Location": "",
+            "First Name": "COLTON",
+            "MI": "A",
+            "Last Name": "KEENER",
+            "Social Security Number": "840-13-1844",
+            "Address": "1050 SE MONTEREY RD",
+            "City": "STUART",
+            "State": "NJ",
+            "Zip": "34994",
+            "County": "",
+            "Home/Cell Phone": "765-239-9663",
+            "Marital Status (Please check one)": "DIVORCED",
+            "Enrollment Status": "ACTIVE EMPLOYEE",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "01/01/2017",
+            "Hours Worked Per Week": "",
+            "Gender": "MALE",
+            "Date of Birth (Month/Day/Year)": "12/06/1988",
+            "Age": "35",
+            "Product Selection(s)": "MEDICAL"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "COURTNEY",
+            "MI": "G",
+            "Last Name": "KEENER",
+            "Relationship to You?": "SPOUSE",
+            "Social Security Number": "879-07-1461",
+            "Gender": "FEMALE",
+            "Date of Birth (Month/Day/Year)": "02/23/1988",
+            "Age": "35.0",
+            "Product Selection(s)": "MEDICAL"
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

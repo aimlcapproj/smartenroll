@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/04/2023",
+            "Employer/Group Name": "WALMART",
+            "Group Number": "28108199",
+            "Payroll Location": "2810-2023",
+            "First Name": "VICTOR",
+            "MI": "G",
+            "Last Name": "SOLON",
+            "Social Security Number": "214-91-3731",
+            "Address": "3998 RED LION RD",
+            "City": "PHILADELPHIA",
+            "State": "NV",
+            "Zip": "19114",
+            "County": "",
+            "Home/Cell Phone": "765-239-9661",
+            "Marital Status (Please check one)": "SINGLE/WIDOWED",
+            "Enrollment Status": "ACTIVE EMPLOYEE",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "03/16/2023",
+            "Hours Worked Per Week": "",
+            "Gender": "MALE",
+            "Date of Birth (Month/Day/Year)": "04/13/2007",
+            "Age": "16",
+            "Product Selection(s)": "DENTAL"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": ""
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

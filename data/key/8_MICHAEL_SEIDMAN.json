@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/10/2023",
+            "Employer/Group Name": "UK NATIONAL HEALTH SERVICE",
+            "Group Number": "16183919",
+            "Payroll Location": "",
+            "First Name": "MICHAEL",
+            "MI": "H",
+            "Last Name": "SEIDMAN",
+            "Social Security Number": "990-90-3464",
+            "Address": "3 LYON PL",
+            "City": "OGDENSBURG",
+            "State": "NH",
+            "Zip": "13669",
+            "County": "",
+            "Home/Cell Phone": "765-239-9662",
+            "Marital Status (Please check one)": "MARRIED",
+            "Enrollment Status": "REHIRED EMPLOYEE",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "03/26/2010",
+            "Hours Worked Per Week": "30.0",
+            "Gender": "MALE",
+            "Date of Birth (Month/Day/Year)": "05/25/1950",
+            "Age": "73",
+            "Product Selection(s)": "DENTAL"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "CHARVELA",
+            "MI": "F",
+            "Last Name": "SEIDMAN",
+            "Relationship to You?": "SPOUSE",
+            "Social Security Number": "457-30-6881",
+            "Gender": "FEMALE",
+            "Date of Birth (Month/Day/Year)": "04/03/1971",
+            "Age": "52.0",
+            "Product Selection(s)": "DENTAL"
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "LARRY",
+            "MI": "B",
+            "Last Name": "SEIDMAN",
+            "Relationship to You?": "STEP-CHILD",
+            "Social Security Number": "980-51-4183",
+            "Gender": "MALE",
+            "Date of Birth (Month/Day/Year)": "01/01/1998",
+            "Age": "25.0",
+            "Product Selection(s)": "DENTAL",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

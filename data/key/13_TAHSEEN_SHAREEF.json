@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/02/2023",
+            "Employer/Group Name": "UNITED PARCEL SERVICE",
+            "Group Number": "17381991",
+            "Payroll Location": "",
+            "First Name": "TAHSEEN",
+            "MI": "",
+            "Last Name": "SHAREEF",
+            "Social Security Number": "757-78-5749",
+            "Address": "11374 MOUNTAIN VIEW AVE",
+            "City": "LOMA LINDA",
+            "State": "ND",
+            "Zip": "92354",
+            "County": "",
+            "Home/Cell Phone": "765-239-9667",
+            "Marital Status (Please check one)": "SINGLE/WIDOWED",
+            "Enrollment Status": "HIPAA LIFE EVENT",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "12/14/2012",
+            "Hours Worked Per Week": "",
+            "Gender": "MALE",
+            "Date of Birth (Month/Day/Year)": "08/22/1968",
+            "Age": "55",
+            "Product Selection(s)": "DENTAL"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": ""
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

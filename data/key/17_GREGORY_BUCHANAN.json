@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "HOME DEPOT",
+            "Group Number": "32333819",
+            "Payroll Location": "3233-2023",
+            "First Name": "GREGORY",
+            "MI": "A",
+            "Last Name": "BUCHANAN",
+            "Social Security Number": "214-91-3731",
+            "Address": "601 JOHN ST",
+            "City": "KALAMAZOO",
+            "State": "PA",
+            "Zip": "49007",
+            "County": "",
+            "Home/Cell Phone": "765-239-9671",
+            "Marital Status (Please check one)": "MARRIED",
+            "Enrollment Status": "ACTIVE EMPLOYEE",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "09/20/2013",
+            "Hours Worked Per Week": "30.0",
+            "Gender": "MALE",
+            "Date of Birth (Month/Day/Year)": "07/24/1989",
+            "Age": "34",
+            "Product Selection(s)": "DENTAL"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "CHRISTINE",
+            "MI": "G",
+            "Last Name": "BUCHANAN",
+            "Relationship to You?": "SPOUSE",
+            "Social Security Number": "840-13-1844",
+            "Gender": "FEMALE",
+            "Date of Birth (Month/Day/Year)": "08/21/1979",
+            "Age": "44.0",
+            "Product Selection(s)": "DENTAL"
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "KIM",
+            "MI": "",
+            "Last Name": "BUCHANAN",
+            "Relationship to You?": "CHILD",
+            "Social Security Number": "214-91-3731",
+            "Gender": "FEMALE",
+            "Date of Birth (Month/Day/Year)": "05/05/2008",
+            "Age": "15.0",
+            "Product Selection(s)": "DENTAL",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "UNITED HEALTH GROUP",
+            "Group Number": "1245729",
+            "Payroll Location": "0124-2023",
+            "First Name": "KARL",
+            "MI": "B",
+            "Last Name": "ECKLUND",
+            "Social Security Number": "457-30-6881",
+            "Address": "15945 19 MILE RD",
+            "City": "CLINTON TOWNSHIP",
+            "State": "NM",
+            "Zip": "48038",
+            "County": "",
+            "Home/Cell Phone": "765-239-9664",
+            "Marital Status (Please check one)": "SINGLE/WIDOWED",
+            "Enrollment Status": "COBRA CONTINUANT START DATE",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "04/08/2011",
+            "Hours Worked Per Week": "",
+            "Gender": "MALE",
+            "Date of Birth (Month/Day/Year)": "04/08/1970",
+            "Age": "53",
+            "Product Selection(s)": "MEDICAL"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": ""
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

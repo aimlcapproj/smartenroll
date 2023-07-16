@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/09/2023",
+            "Employer/Group Name": "WALMART",
+            "Group Number": "28108199",
+            "Payroll Location": "2810-2023",
+            "First Name": "MCKENNA",
+            "MI": "",
+            "Last Name": "SUNA-SITTO",
+            "Social Security Number": "990-90-3464",
+            "Address": "2401 W GLENDALE AVE",
+            "City": "PHOENIX",
+            "State": "RI",
+            "Zip": "85021",
+            "County": "",
+            "Home/Cell Phone": "765-239-9672",
+            "Marital Status (Please check one)": "DIVORCED",
+            "Enrollment Status": "ACTIVE EMPLOYEE",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "02/26/2018",
+            "Hours Worked Per Week": "",
+            "Gender": "FEMALE",
+            "Date of Birth (Month/Day/Year)": "08/08/1989",
+            "Age": "34",
+            "Product Selection(s)": "DENTAL"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": ""
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "LISA",
+            "MI": "",
+            "Last Name": "SUNA-SITTO",
+            "Relationship to You?": "CHILD",
+            "Social Security Number": "990-90-3462",
+            "Gender": "FEMALE",
+            "Date of Birth (Month/Day/Year)": "02/19/2014",
+            "Age": "9.0",
+            "Product Selection(s)": "DENTAL",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/04/2023",
+            "Employer/Group Name": "FEDEX",
+            "Group Number": "32492082",
+            "Payroll Location": "",
+            "First Name": "DENNIS",
+            "MI": "H",
+            "Last Name": "LARSON",
+            "Social Security Number": "775-78-5749",
+            "Address": "1406 CENTERPOINT CIR",
+            "City": "O FALLON",
+            "State": "OR",
+            "Zip": "62269",
+            "County": "",
+            "Home/Cell Phone": "765-239-9670",
+            "Marital Status (Please check one)": "SINGLE/WIDOWED",
+            "Enrollment Status": "REHIRED EMPLOYEE",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "10/05/1999",
+            "Hours Worked Per Week": "20.0",
+            "Gender": "MALE",
+            "Date of Birth (Month/Day/Year)": "10/05/1953",
+            "Age": "70",
+            "Product Selection(s)": "DENTAL"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": ""
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "HOBART",
+            "MI": "",
+            "Last Name": "LARSON",
+            "Relationship to You?": "CHILD",
+            "Social Security Number": "775-78-5745",
+            "Gender": "MALE",
+            "Date of Birth (Month/Day/Year)": "01/14/1998",
+            "Age": "25.0",
+            "Product Selection(s)": "DENTAL",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

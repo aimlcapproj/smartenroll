@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "STARBUCKS",
+            "Group Number": "47289191",
+            "Payroll Location": "",
+            "First Name": "C\u00c9LESTINE",
+            "MI": "A",
+            "Last Name": "MITTERAND",
+            "Social Security Number": "879-07-1461",
+            "Address": "1111 HIGHWAY 6",
+            "City": "SUGAR LAND",
+            "State": "MI",
+            "Zip": "77478",
+            "County": "",
+            "Home/Cell Phone": "765-239-9655",
+            "Marital Status (Please check one)": "SINGLE/WIDOWED",
+            "Enrollment Status": "ACTIVE EMPLOYEE",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "02/06/2007",
+            "Hours Worked Per Week": "40.0",
+            "Gender": "FEMALE",
+            "Date of Birth (Month/Day/Year)": "01/11/1975",
+            "Age": "48",
+            "Product Selection(s)": "MEDICAL"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": ""
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "AMY",
+            "MI": "",
+            "Last Name": "MITTERAND",
+            "Relationship to You?": "CHILD",
+            "Social Security Number": "757-78-5749",
+            "Gender": "FEMALE",
+            "Date of Birth (Month/Day/Year)": "01/01/1996",
+            "Age": "27.0",
+            "Product Selection(s)": "MEDICAL",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

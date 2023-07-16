@@ -1,0 +1,62 @@
+{
+    "image_id": "1",
+    "Section1": [
+        {
+            "insurancecompany": "HIGHMARK",
+            "formheader": "ENROLLMENT/WAIVER FORM",
+            "formsectionI": "I EMPLOYEE/CONTRACT HOLDER INFORMATION (Must be completed for both enrollees and waivers)",
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "TARGET",
+            "Group Number": "48208181",
+            "Payroll Location": "",
+            "First Name": "JONATHAN",
+            "MI": "G",
+            "Last Name": "ROTHBERG",
+            "Social Security Number": "190-90-3464",
+            "Address": "101 MAIN ST",
+            "City": "MEDFORD",
+            "State": "OK",
+            "Zip": "2155",
+            "County": "",
+            "Home/Cell Phone": "765-239-9669",
+            "Marital Status (Please check one)": "DIVORCED",
+            "Enrollment Status": "ACTIVE EMPLOYEE",
+            "Full-Time Hire (or Rehire) Date (Month/Day/Year)": "07/07/2020",
+            "Hours Worked Per Week": "",
+            "Gender": "MALE",
+            "Date of Birth (Month/Day/Year)": "12/14/1970",
+            "Age": "53",
+            "Product Selection(s)": "MEDICAL"
+        }
+    ],
+    "Section2": [
+        {
+            "formsectionII": "II DEPENDENT INFORMATION (If enrolling more than four dependents, please attach a separate sheet)",
+            "Dependent1": "SPOUSE/DOMESTIC PARTNER",
+            "First Name": "SANAM",
+            "MI": "E",
+            "Last Name": "ROTHBERG",
+            "Relationship to You?": "SPOUSE",
+            "Social Security Number": "214-91-3731",
+            "Gender": "FEMALE",
+            "Date of Birth (Month/Day/Year)": "04/14/1983",
+            "Age": "40.0",
+            "Product Selection(s)": "MEDICAL"
+        }
+    ],
+    "Section3": [
+        {
+            "Dependent2": "DEPENDENT CHILD",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You?": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth (Month/Day/Year)": "",
+            "Age": "",
+            "Product Selection(s)": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}
